@@ -11,12 +11,12 @@ if sys.version_info.major < 3:
 
 setup(name="keras_segmentation",
       version="0.3.0",
-      description="Image Segmentation toolkit for keras",
-      author="Divam Gupta",
+      description="Image Segmentation",
+      author="Waqas Rauf",
       author_email='divamgupta@gmail.com',
       platforms=["any"],  # or more specific, e.g. "win32", "cygwin", "osx"
       license="GPLv3",
-      url="https://github.com/divamgupta/image-segmentation-keras",
+      url="https://github.com/WaqasRauf/CS867-Computer-Vision-Assignment-03.git",
       packages=find_packages(exclude=["test"]),
       entry_points={
             'console_scripts': [
