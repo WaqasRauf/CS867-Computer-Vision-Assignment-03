@@ -13,7 +13,7 @@ In the above example, the pixels belonging to the bed are classified in the clas
 In particular, our goal is to take an image of size W x H x 3 and generate a W x H matrix containing the predicted class ID’s corresponding to all the pixels.
 
 <p align="center">
-  <img src="sample_images/3_input.jpg" width="350" title="hover text">
+  <img src="sample_images/3_input.jpg" width="350" title="accessibility text">
 </p>
 
 Usually in an image with various entities, we want to know which pixel belongs to which entity, For example in an outdoor image, we can segment the sky, ground, trees, people, etc.
@@ -37,7 +37,7 @@ Following classes are there in the dataset.
 Given below is the predictions overlapped on the input image for visualization.
 
 <p align="center">
-  <img src="sample_images/3_input.jpg" width="350" title="hover text">
+  <img src="sample_images/4_input.jpg" width="350" title="accessibility text">
 </p>
 
 ## Task : Option 01
